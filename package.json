@@ -3,8 +3,8 @@
     "fs": "^0.0.1-security"
   },
   "scripts": {
-    "start": "node 10869.js",
-    "dev": "nodemon 10869.js"
+    "start": "node 10926.js",
+    "dev": "nodemon 10926.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
