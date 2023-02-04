@@ -2,6 +2,18 @@ const fs = require("fs");
 const input = fs.readFileSync("예제.txt").toString();
 const num = Number(input);
 
+if (90 <= num) {
+  return console.log("A");
+} else if (80 <= num) {
+  return console.log("B");
+} else if (70 <= num) {
+  return console.log("C");
+} else if (60 <= num) {
+  return console.log("D");
+} else {
+  return console.log("F");
+}
+
 // 오답
 // if (num > 0 && num < 59) {
 //   return console.log("F");
@@ -16,15 +28,3 @@ const num = Number(input);
 // }
 
 // console.log(num); // result : A
-
-if (90 < num) {
-  return console.log("A");
-} else if (80 < num) {
-  return console.log("B");
-} else if (70 < num) {
-  return console.log("C");
-} else if (60 < num) {
-  return console.log("D");
-} else {
-  return console.log("F");
-}
