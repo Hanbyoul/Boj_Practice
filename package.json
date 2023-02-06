@@ -3,7 +3,7 @@
     "fs": "^0.0.1-security"
   },
   "scripts": {
-    "dev": "nodemon 2884.js"
+    "dev": "nodemon 2525.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
