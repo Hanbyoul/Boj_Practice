@@ -1,5 +1,5 @@
 const fs = require("fs");
-const input = fs
+const [h, m, t] = fs
   .readFileSync("ex.txt")
   .toString()
   .trim()
@@ -9,7 +9,6 @@ const input = fs
   .join(",")
   .split(",")
   .map((i) => +i);
-const [h, m, t] = input;
 
 resultM = (m + t) % 60;
 resultH = h + Math.floor((m + t) / 60);
