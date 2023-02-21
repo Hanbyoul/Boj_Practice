@@ -5,7 +5,8 @@ const [count, array, num] = fs
   .trim()
   .split("\n");
 
-const cnt = array.split(" ").filter((prev) => prev === num).length;
 const test = array.split(" ").filter((prev) => prev === num);
-console.log(cnt);
-console.log(test);
+console.log(test); // [ '2', '2', '2' ]
+
+const cnt = array.split(" ").filter((prev) => prev === num).length;
+console.log(cnt); // 3
