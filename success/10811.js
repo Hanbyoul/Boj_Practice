@@ -3,22 +3,18 @@ const [nm, ...array] = fs.readFileSync("ex.txt").toString().trim().split("\n");
 
 const [N, M] = nm.split(" ").map(Number);
 
-console.log(N, M);
-
 const basket = [];
 
 for (let i = 1; i <= N; i++) {
   basket.push(i);
 }
 
-console.log(basket);
-
 for (let i = 0; i < M; i++) {
   let [I, J] = array[i].split(" ").map(Number);
   let t = basket.slice(I - 1, J).reverse();
   basket.splice(I - 1, J - I + 1, ...t);
-  console.log(basket);
 }
+console.log(basket.join(" "));
 
 // [1,2,3,4,5]
 // [2,1,4,3,5] 12 >> 21
