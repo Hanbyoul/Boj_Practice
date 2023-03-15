@@ -21,11 +21,7 @@ const input = fs
   .trim()
   .split("\n")
   .map((n) => n.split(" ").map(Number));
-console.log(input);
-
 const [N, M] = input.shift();
-console.log(input);
-
 const result = Array.from(Array(N), () => new Array(M));
 
 for (let i = 0; i < N; i++) {
