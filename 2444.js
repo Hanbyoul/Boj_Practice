@@ -1,27 +1,20 @@
 const fs = require("fs");
 const input = fs.readFileSync("ex.txt").toString().trim() * 1;
-console.log(input);
 
-//000050000
-//000456000
-//003456700
-//023456780
-//123456789
-//023456780
-//003456700
-//000456000
-//000050000
+let star = "*".repeat(input * 2 - 1).split(""); //배열로 * 만들기
+let start = 0;
+let end = input * 2 - 2;
+let halfStar = [];
 
-let side = "";
-let star = "*";
-let result = "";
-let max = input * 2 - 1;
+for (let i = 0; i < input; i++) {
+  halfStar.push(star.join(""));
+  star[start] = " ";
+  star[end] = "";
+  start++;
+  end--;
+}
 
-// for (let i = 1; i <= max; i++) {
-// result = input-i * side
+let halfStar2 = halfStar.slice().reverse().slice(0, -1); //마지막 *은 제외하고 복사된다.
 
-//star length +2 max까지
-
-//if star.length가 max일 경우 다시 -- 1까지 줄이기
-
-// }
+let fullStar = [...halfStar2, ...halfStar];
+console.log(fullStar.join("\n"));
