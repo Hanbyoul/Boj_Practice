@@ -1,5 +1,20 @@
-3
-happy
-new
-year
-aabcdcv
+ObjectOrientedProgramming1 3.0 A+
+IntroductiontoComputerEngineering 3.0 P
+ObjectOrientedProgramming2 3.0 P
+CreativeComputerEngineeringDesign 3.0 P
+AssemblyLanguage 3.0 P
+InternetProgramming 3.0 P
+ApplicationProgramminginJava 3.0 P
+SystemProgramming 3.0 P
+OperatingSystem 3.0 P
+WirelessCommunicationsandNetworking 3.0 P
+LogicCircuits 3.0 P
+DataStructure 4.0 P
+MicroprocessorApplication 3.0 P
+EmbeddedSoftware 3.0 P
+ComputerSecurity 3.0 P
+Database 3.0 P
+Algorithm 3.0 P
+CapstoneDesigninCSE 3.0 P
+CompilerDesign 3.0 P
+ProblemSolving 4.0 P
