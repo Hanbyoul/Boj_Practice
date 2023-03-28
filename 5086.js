@@ -24,18 +24,17 @@ const input = fs
   .toString()
   .trim()
   .split("\n")
-  .map((i) => i.split(" ").map(Number))
-  .slice(0, -1);
+  .map((i) => i.split(" ").map(Number));
 console.log(input);
-// for (let i = 0; i < input.length; i++) {
-//   [one, two] = input[i];
-//   if (one !== 0 || two !== 0) {
-//     if (two % one === 0) {
-//       console.log("factor");
-//     } else if (one % two === 0) {
-//       console.log("multiple");
-//     } else {
-//       console.log("neither");
-//     }
-//   }
-// }
+for (let i = 0; i < input.length; i++) {
+  [one, two] = input[i];
+  if (one !== 0 || two !== 0) {
+    if (two % one === 0) {
+      console.log("factor");
+    } else if (one % two === 0) {
+      console.log("multiple");
+    } else {
+      console.log("neither");
+    }
+  }
+}
