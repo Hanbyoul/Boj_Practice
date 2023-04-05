@@ -71,3 +71,4 @@
 - [문제번호 9506](https://hanbyoul0826.tistory.com/124) 약수들의 합
 - [문제번호 2581](https://hanbyoul0826.tistory.com/126) 소수
 - [문제번호 11653](https://hanbyoul0826.tistory.com/127) 소인수분해
+- [문제번호 2745](https://hanbyoul0826.tistory.com/128) 진법 변환
