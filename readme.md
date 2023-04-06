@@ -67,8 +67,11 @@
 - [문제번호 4344](https://hanbyoul0826.tistory.com/118) 평균은 넘겠지
 - [문제번호 2941](https://hanbyoul0826.tistory.com/119) 크로아티아 알파벳
 - [문제번호 25206](https://hanbyoul0826.tistory.com/121) 너의평점은
+- [문제번호 5086](https://hanbyoul0826.tistory.com/122) 배와 약수
 - [문제번호 2501](https://hanbyoul0826.tistory.com/123) 약수 구하기
 - [문제번호 9506](https://hanbyoul0826.tistory.com/124) 약수들의 합
+- [문제번호 1978](https://hanbyoul0826.tistory.com/125) 소수 찾기
 - [문제번호 2581](https://hanbyoul0826.tistory.com/126) 소수
 - [문제번호 11653](https://hanbyoul0826.tistory.com/127) 소인수분해
 - [문제번호 2745](https://hanbyoul0826.tistory.com/128) 진법 변환
+- [문제번호 11005](https://hanbyoul0826.tistory.com/130) 진법 변환2
