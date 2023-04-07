@@ -75,3 +75,4 @@
 - [문제번호 11653](https://hanbyoul0826.tistory.com/127) 소인수분해
 - [문제번호 2745](https://hanbyoul0826.tistory.com/128) 진법 변환
 - [문제번호 11005](https://hanbyoul0826.tistory.com/130) 진법 변환2
+- [문제번호 2720](https://hanbyoul0826.tistory.com/131) 세탁소 사장 동혁
