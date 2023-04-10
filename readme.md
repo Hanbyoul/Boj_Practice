@@ -77,4 +77,4 @@
 - [문제번호 11005](https://hanbyoul0826.tistory.com/130) 진법 변환2
 - [문제번호 2720](https://hanbyoul0826.tistory.com/131) 세탁소 사장 동혁
 - [문제번호 2903](https://hanbyoul0826.tistory.com/132) 중앙 이동 알고리즘
-- [문제번호 1193](https://hanbyoul0826.tistory.com/) 분수 찾기
+- [문제번호 1193](https://hanbyoul0826.tistory.com/133) 분수 찾기
