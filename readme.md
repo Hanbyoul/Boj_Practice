@@ -1,4 +1,4 @@
-#🚀 알고리즘 공부를 위해서 만든
+🚀 알고리즘 공부를 위해서 만든
 
 ## BaekJoon 문제풀이 Repository입니다.
 
@@ -77,3 +77,4 @@
 - [문제번호 11005](https://hanbyoul0826.tistory.com/130) 진법 변환2
 - [문제번호 2720](https://hanbyoul0826.tistory.com/131) 세탁소 사장 동혁
 - [문제번호 2903](https://hanbyoul0826.tistory.com/132) 중앙 이동 알고리즘
+- [문제번호 1193](https://hanbyoul0826.tistory.com/) 분수 찾기
