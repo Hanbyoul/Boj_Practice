@@ -78,3 +78,4 @@
 - [문제번호 2720](https://hanbyoul0826.tistory.com/131) 세탁소 사장 동혁
 - [문제번호 2903](https://hanbyoul0826.tistory.com/132) 중앙 이동 알고리즘
 - [문제번호 1193](https://hanbyoul0826.tistory.com/133) 분수 찾기
+- [문제번호 2869](https://hanbyoul0826.tistory.com/135) 달팽이는 올라가고 싶다
