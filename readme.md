@@ -81,3 +81,4 @@
 - [문제번호 2869](https://hanbyoul0826.tistory.com/135) 달팽이는 올라가고 싶다
 - [문제번호 10757](https://hanbyoul0826.tistory.com/137) 큰 수 A + B
 - [문제번호 27323](https://hanbyoul0826.tistory.com/139) 직사각형
+- [문제번호 1085](https://hanbyoul0826.tistory.com/141)직사각형에서 탈출
