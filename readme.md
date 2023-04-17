@@ -83,3 +83,4 @@
 - [문제번호 27323](https://hanbyoul0826.tistory.com/139) 직사각형
 - [문제번호 1085](https://hanbyoul0826.tistory.com/141) 직사각형에서 탈출
 - [문제번호 3009](https://hanbyoul0826.tistory.com/142) 네 번째 점
+- [문제번호 15894](https://hanbyoul0826.tistory.com/143) 수학은 체육과목 입니다.
