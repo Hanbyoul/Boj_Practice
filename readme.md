@@ -86,3 +86,4 @@
 - [문제번호 15894](https://hanbyoul0826.tistory.com/143) 수학은 체육과목 입니다.
 - [문제번호 9063](https://hanbyoul0826.tistory.com/144) 대지
 - [문제번호 10101](https://hanbyoul0826.tistory.com/145) 삼각형 외우기
+- [문제번호 5073](https://hanbyoul0826.tistory.com/147) 삼각형과 세 변
