@@ -85,3 +85,4 @@
 - [문제번호 3009](https://hanbyoul0826.tistory.com/142) 네 번째 점
 - [문제번호 15894](https://hanbyoul0826.tistory.com/143) 수학은 체육과목 입니다.
 - [문제번호 9063](https://hanbyoul0826.tistory.com/144) 대지
+- [문제번호 10101](https://hanbyoul0826.tistory.com/145) 삼각형 외우기
