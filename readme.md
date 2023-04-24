@@ -87,3 +87,5 @@
 - [문제번호 9063](https://hanbyoul0826.tistory.com/144) 대지
 - [문제번호 10101](https://hanbyoul0826.tistory.com/145) 삼각형 외우기
 - [문제번호 5073](https://hanbyoul0826.tistory.com/147) 삼각형과 세 변
+- [문제번호 14215](https://hanbyoul0826.tistory.com/148) 세 막대
+- [문제번호 24262](https://hanbyoul0826.tistory.com/151) 알고리즘 수업 - 알고리즘의 수행 시간 1
