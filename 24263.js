@@ -1,0 +1,3 @@
+const n = require("fs").readFileSync("ex.txt").toString().trim() * 1;
+console.log(n);
+console.log(1);

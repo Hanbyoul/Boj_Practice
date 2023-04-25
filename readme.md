@@ -89,3 +89,4 @@
 - [문제번호 5073](https://hanbyoul0826.tistory.com/147) 삼각형과 세 변
 - [문제번호 14215](https://hanbyoul0826.tistory.com/148) 세 막대
 - [문제번호 24262](https://hanbyoul0826.tistory.com/151) 알고리즘 수업 - 알고리즘의 수행 시간 1
+- [문제번호 24263](https://hanbyoul0826.tistory.com/154) 알고리즘 수업 - 알고리즘의 수행 시간 2
