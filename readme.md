@@ -91,3 +91,4 @@
 - [문제번호 24262](https://hanbyoul0826.tistory.com/151) 알고리즘 수업 - 알고리즘의 수행 시간 1
 - [문제번호 24263](https://hanbyoul0826.tistory.com/154) 알고리즘 수업 - 알고리즘의 수행 시간 2
 - [문제번호 24264](https://hanbyoul0826.tistory.com/154) 알고리즘 수업 - 알고리즘의 수행 시간 3
+- [문제번호 24265](https://hanbyoul0826.tistory.com/164) 알고리즘 수업 - 알고리즘의 수행 시간 4
