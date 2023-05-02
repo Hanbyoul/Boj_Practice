@@ -7,7 +7,7 @@ const n = require("fs").readFileSync("ex.txt").toString() * 1;
 //   for (let j = i + 1; j <= n; j++) {
 //     count++;
 //   }
-// }
+// }g
 // console.log(count);
 // console.log(2);
 
