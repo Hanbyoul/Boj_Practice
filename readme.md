@@ -94,3 +94,4 @@
 - [문제번호 24265](https://hanbyoul0826.tistory.com/164) 알고리즘 수업 - 알고리즘의 수행 시간 4
 - [문제번호 24266](https://hanbyoul0826.tistory.com/166) 알고리즘 수업 - 알고리즘의 수행 시간 5
 - [문제번호 24267](https://hanbyoul0826.tistory.com/171) 알고리즘 수업 - 알고리즘의 수행 시간 6
+- [문제번호 24313](https://hanbyoul0826.tistory.com/172) 알고리즘 수업 - 점근적 표기 1
