@@ -96,4 +96,5 @@
 - [문제번호 24267](https://hanbyoul0826.tistory.com/171) 알고리즘 수업 - 알고리즘의 수행 시간 6
 - [문제번호 24313](https://hanbyoul0826.tistory.com/172) 알고리즘 수업 - 점근적 표기 1
 - [문제번호 2798](https://hanbyoul0826.tistory.com/173) 블랙잭
-- [문제번호 2231](https://hanbyoul0826.tistory.com/174) 블랙잭
+- [문제번호 2231](https://hanbyoul0826.tistory.com/174) 분해합
+- [문제번호 19532](https://hanbyoul0826.tistory.com/175) 수학은 비대면강의입니다
