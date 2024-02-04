@@ -99,3 +99,4 @@
 - [문제번호 2231](https://hanbyoul0826.tistory.com/174) 분해합
 - [문제번호 19532](https://hanbyoul0826.tistory.com/175) 수학은 비대면강의입니다
 - [문제번호 1018](https://hanbyoul0826.tistory.com/263) 체스판 다시 칠하기
+- [문제번호 1018](https://hanbyoul0826.tistory.com/266) 영화감독 숌
