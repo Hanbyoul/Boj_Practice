@@ -101,3 +101,5 @@
 - [문제번호 1018](https://hanbyoul0826.tistory.com/263) 체스판 다시 칠하기
 - [문제번호 1436](https://hanbyoul0826.tistory.com/266) 영화감독 숌
 - [문제번호 2839](https://hanbyoul0826.tistory.com/267) 설탕 배달
+- [문제번호 2750](https://hanbyoul0826.tistory.com/269) 수 정렬하기
+- [문제번호 2587](https://hanbyoul0826.tistory.com/270) 대표값2
