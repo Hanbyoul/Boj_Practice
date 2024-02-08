@@ -104,3 +104,4 @@
 - [문제번호 2750](https://hanbyoul0826.tistory.com/269) 수 정렬하기
 - [문제번호 2587](https://hanbyoul0826.tistory.com/270) 대표값2
 - [문제번호 25305](https://hanbyoul0826.tistory.com/273) 커트라인
+- [문제번호 2751](https://hanbyoul0826.tistory.com/274) 수 정렬하기2
