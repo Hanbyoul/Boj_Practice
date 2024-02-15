@@ -106,3 +106,5 @@
 - [문제번호 25305](https://hanbyoul0826.tistory.com/273) 커트라인
 - [문제번호 2751](https://hanbyoul0826.tistory.com/274) 수 정렬하기2
 - [문제번호 1427](https://hanbyoul0826.tistory.com/276) 소트인사이드
+- [문제번호 11650](https://hanbyoul0826.tistory.com/277) 좌표 정렬하기
+- [문제번호 11651](https://hanbyoul0826.tistory.com/278) 좌표 정렬하기2
