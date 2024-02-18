@@ -7,18 +7,6 @@ const [N, ...numbers] = require("fs")
   .split(" ")
   .map(Number);
 
-// const X = new Set(numbers);
-
-// const XX = [...X].sort((a, b) => a - b);
-
-// console.log(XX);
-
-// for (let i = 0; i < N; i++) {
-//   numbers[i] = XX.indexOf(numbers[i]);
-// }
-
-// console.log(...numbers);
-
 const rankMap = new Map();
 
 const sortedNumbers = [...new Set(numbers)].sort((a, b) => a - b);

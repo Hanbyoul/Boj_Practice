@@ -110,3 +110,4 @@
 - [문제번호 11651](https://hanbyoul0826.tistory.com/278) 좌표 정렬하기2
 - [문제번호 1181](https://hanbyoul0826.tistory.com/280) 단어 정렬
 - [문제번호 1181](https://hanbyoul0826.tistory.com/282) 나이순 정렬
+- [문제번호 18870](https://hanbyoul0826.tistory.com/283) 좌표 압축
