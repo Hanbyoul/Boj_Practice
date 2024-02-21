@@ -113,3 +113,4 @@
 - [문제번호 18870](https://hanbyoul0826.tistory.com/283) 좌표 압축
 - [문제번호 10815](https://hanbyoul0826.tistory.com/284) 숫자 카드
 - [문제번호 14425](https://hanbyoul0826.tistory.com/286) 문자열 집합
+- [문제번호 7785](https://hanbyoul0826.tistory.com/287) 회사에 있는 사람
