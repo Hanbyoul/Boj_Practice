@@ -5,21 +5,13 @@ const [NM, ...rest] = require("fs")
   .split("\n");
 
 const [, M] = NM.split(" ").map(Number);
-
-const target = rest.splice(-M);
-
-// const PokemonName = rest.map((name, index) =>
-//   (name + " " + (index + 1)).split(" ")
-// );
-
-// const PokemonBook = new Map([...PokemonName]);
+const result = [];
 const PokemonBook = new Map();
+const target = rest.splice(-M);
 
 for (let i = 0; i < rest.length; i++) {
   PokemonBook.set(rest[i], i + 1);
 }
-
-const result = [];
 
 for (let i = 0; i < M; i++) {
   if (isNaN(target[i])) {
