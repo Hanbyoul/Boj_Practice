@@ -1,27 +1,20 @@
-const [N, arr1, M, arr2] = require("fs")
+const [N, ...arr] = require("fs")
   .readFileSync("ex.txt")
   .toString()
   .trim()
-  .split("\n")
-  .map((i) => i.split(" "));
+  .split("\n");
 
-// console.log(arr2.join(" "));
+const set1 = new Set();
+const result = [];
 
-const frequencyArr = new Map();
-arr1.forEach((n) =>
-  frequencyArr.has(n)
-    ? frequencyArr.set(n, frequencyArr.get(n) + 1)
-    : frequencyArr.set(n, 1)
-);
+const [targetN] = N.split(" ").map(Number);
 
-console.log(frequencyArr);
-
-for (let i = 0; i < arr2.length; i++) {
-  if (frequencyArr.has(arr2[i])) {
-    arr2[i] = frequencyArr.get(arr2[i]);
+for (let i = 0; i < arr.length; i++) {
+  if (i < targetN) {
+    set1.add(arr[i]);
   } else {
-    arr2[i] = 0;
+    if (set1.has(arr[i])) result.push(arr[i]);
   }
 }
 
-console.log(arr2.join(" "));
+console.log(result.length + "\n" + result.sort().join("\n"));
