@@ -1,14 +1,10 @@
-const [n, a, b] = require("fs")
-  .readFileSync("ex.txt")
-  .toString()
-  .trim()
-  .split("\n")
-  .map((n) => n.split(" "));
+const input = require("fs").readFileSync("ex.txt").toString().trim();
 
-const [A, B] = n.map(Number);
-console.log(A + B); // 8
+let result = new Set();
 
-const setAB = new Set([...a, ...b]); // AUB (AB합집합)
-console.log(setAB.size); // 6
-
-console.log(setAB.size * 2 - (A + B));
+for (let i = 1; i <= input.length; i++) {
+  for (let j = 0; j < input.length - i + 1; j++) {
+    result.add(input.slice(j, j + i));
+  }
+}
+console.log(result.size);
