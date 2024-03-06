@@ -119,3 +119,4 @@
 - [문제번호 1764](https://hanbyoul0826.tistory.com/291) 듣보잡
 - [문제번호 1269](https://hanbyoul0826.tistory.com/292) 대칭 차집합
 - [문제번호 11478](https://hanbyoul0826.tistory.com/296) 서로 다른 부분 문자열의 개수
+- [문제번호 1934](https://hanbyoul0826.tistory.com/296) 최소공배수
