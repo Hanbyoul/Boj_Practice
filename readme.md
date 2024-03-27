@@ -123,4 +123,5 @@
 - [문제번호 13241](https://hanbyoul0826.tistory.com/302) 최소공배수
 - [문제번호 1735](https://hanbyoul0826.tistory.com/305) 분수 합
 - [문제번호 2485](https://hanbyoul0826.tistory.com/307) 가로수
-- [문제번호 4134](https://hanbyoul0826.tistory.com/307) 다음 소수
+- [문제번호 4134](https://hanbyoul0826.tistory.com/311) 다음 소수
+- [문제번호 1929](https://hanbyoul0826.tistory.com/312) 소수 구하기
