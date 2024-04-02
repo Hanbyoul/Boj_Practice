@@ -126,3 +126,4 @@
 - [문제번호 4134](https://hanbyoul0826.tistory.com/311) 다음 소수
 - [문제번호 1929](https://hanbyoul0826.tistory.com/312) 소수 구하기
 - [문제번호 4948](https://hanbyoul0826.tistory.com/313) 베르트랑 공준
+- [문제번호 17103](https://hanbyoul0826.tistory.com/314) 골드바흐 파티션
