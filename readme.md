@@ -129,3 +129,4 @@
 - [문제번호 17103](https://hanbyoul0826.tistory.com/314) 골드바흐 파티션
 - [문제번호 13909](https://hanbyoul0826.tistory.com/315) 창문 닫기
 - [문제번호 28278](https://hanbyoul0826.tistory.com/316) 스택 2
+- [문제번호 10773](https://hanbyoul0826.tistory.com/317) 제로
